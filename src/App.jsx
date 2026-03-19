@@ -162,7 +162,7 @@ export default function App() {
 
               <div className="qr-wrap">
                 <div className="qr-title">LINE QR Code</div>
-                <img src="/line-qr.png" alt="正昇電器行 LINE QR Code" className="qr-image" />
+                <img src="/line-qr.jpg" alt="LINE QR Code" className="w-40 mt-3"/>
               </div>
             </div>
 
